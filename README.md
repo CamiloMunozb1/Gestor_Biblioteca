@@ -15,8 +15,8 @@ Biblioteca sqlite3(incluida en la biblioteca estándar de Python)
 
 # manejo de errores
 El sistema maneja dos tipos principales de errores:
-ValueError : Cuando la entrada del usuario no es válida (no es un número).
-sqlite3.Error : Cualquier error relacionado con la base de datos SQLite.
+1. ValueError : Cuando la entrada del usuario no es válida (no es un número).
+2. sqlite3.Error : Cualquier error relacionado con la base de datos SQLite.
 
 # Contribuir
 Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
