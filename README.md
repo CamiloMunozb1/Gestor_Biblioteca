@@ -2,8 +2,8 @@
 Este proyecto es un sistema de gestión de una biblioteca personal que utiliza SQLite como base de datos y Python para la lógica del programa. Permite a los usuarios gestionar autores, libros y registros de préstamos.
 
 # Requisitos
-Pitón 3.x
-Biblioteca sqlite3(incluida en la biblioteca estándar de Python)
+1. Python 3.x
+2. Biblioteca sqlite3(incluida en la biblioteca estándar de Python)
 
 # Funcionalidades
 1. Ingrese un autor nuevo : Permite al usuario ingresar un nuevo autor en la base de datos.
